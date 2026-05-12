@@ -1,0 +1,2 @@
+comment_row,original_text,preprocessed_text,model_prediction,model_confidence,expert_stance,expert_confidence,agreement,disagreement_reason,expert_notes,expert_name,expert_org,saved_at
+0,Semakin hari semakin terbuka kalau Presiden @prabowo tidak independen dan ada sosok yang atur beliau dalam menjalankan roda pemerintahan.,terbuka presiden independen sosok atur beliau menjalankan roda pemerintahan,,0.0,NEGATIVE,Confident,False,karena tidak mendukung postingan,model kurang akurat,Wisnu,Kemlu,2026-05-10T07:58:21.411769
